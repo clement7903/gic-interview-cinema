@@ -9,33 +9,15 @@ This repository contains the `main.py` script, which serves as the primary entry
 
 ## Requirements
 
-- Python 3.x
-- [List any additional dependencies]
+- Python 3.12.7
 
-## Installation
+## Installation / Usage
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name.git
+    git clone https://github.com/clement7903/gic-interview-cinema
     ```
-2. Navigate to the project directory:
+2. Run the project:
     ```bash
-    cd your-repo-name
+    python3 main.py
     ```
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-Run the script using:
-```bash
-python main.py
-```
-
-[Add any additional usage instructions or examples]
-
-## License
-
-This project is licensed under the [Your License Name]. See the `LICENSE` file for details.
