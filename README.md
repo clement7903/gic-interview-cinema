@@ -4,8 +4,8 @@ This repository contains the `main.py` script, which serves as the primary entry
 
 ## Features
 
-- [Briefly describe the main features of the script]
-- [Highlight any key functionality]
+- Allows user to book out seats either by allocation or by choosing the initial seat position
+- Allows user to view previous bookings
 
 ## Requirements
 
